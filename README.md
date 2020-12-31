@@ -2,15 +2,15 @@
 
 ## Lesson Task 2 Questions
 
-### Question
+### Question 1
 
 Console log the 3rd item in this array.
 
 ```js
-var winningNumbers = [1, 76, 3, 78, 16, 7];
+var winningNumbers = [1, 76, 2, 78, 16, 7];
 ```
 
-### Question
+### Question 2
 
 Add a new item to this array using the `push` method and console log the new amount of items.
 
@@ -18,7 +18,7 @@ Add a new item to this array using the `push` method and console log the new amo
 var vegetables = ["rice", "potatoes", "porridge", "cake", "spinach"];
 ```
 
-### Question
+### Question 3
 
 Console log each item in this array using a for loop.
 
@@ -26,7 +26,7 @@ Console log each item in this array using a for loop.
 var randomThings = ["pumpkin", false, 23, true, "tomato"];
 ```
 
-### Question
+### Question 4
 
 Loop through this array but only log the item if it is a number value.
 
@@ -34,7 +34,7 @@ Loop through this array but only log the item if it is a number value.
 var moreThings = [14, "cat", true, 29, "fox", true, 34, 19];
 ```
 
-### Question
+### Question 5
 
 Order this array alphabetically and then loop through it and log each item.
 
@@ -42,7 +42,7 @@ Order this array alphabetically and then loop through it and log each item.
 var ingredients = ["water", "flour", "toothpaste", "fish lips"];
 ```
 
-### Question
+### Question 6
 
 Loop through this array and log every second item.
 
